@@ -1,0 +1,4 @@
+﻿  Hangman Honors.cpp
+C:\Users\alimo\source\repos\Hangman Honors\Hangman Honors\Hangman Honors.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alimo\source\repos\Hangman Honors\Hangman Honors\Hangman Honors.cpp(72,27): warning C4018: '<': signed/unsigned mismatch
+  Hangman Honors.vcxproj -> C:\Users\alimo\source\repos\Hangman Honors\Debug\Hangman Honors.exe
